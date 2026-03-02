@@ -1,0 +1,27 @@
+{
+  "name": "api-diff",
+  "version": "1.0.0",
+  "description": "Compare two API endpoints or JSON files and see exactly what changed",
+  "type": "module",
+  "bin": {
+    "api-diff": "./index.js",
+    "adiff": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "api",
+    "diff",
+    "testing"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/api-diff"
+  }
+}
