@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # api-diff
 > Compare two API endpoints or JSON files. Spot breaking changes instantly.
 
